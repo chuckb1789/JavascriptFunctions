@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(193,203,211);
+}
+div {
+  margin: auto;
+  background-image: url("./IMG_6276.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+  width: 50vw;
+  transform: translateY(50%) translateX(0%);
+}
